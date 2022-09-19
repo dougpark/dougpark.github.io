@@ -20,11 +20,11 @@ author: 64Zbit.com
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Info: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Tags: "/tags"
+    - Tech: "/tags/tech"
+  More: "https://64zbit.com"
 
 ################
 # --- Logo --- #

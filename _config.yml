@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: 64Zbit.com
 
 # Your name to show in the footer
-author: 64Zbit
+author: 64Zbit.com
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -247,7 +247,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

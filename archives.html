@@ -10,9 +10,9 @@ title: 'Archives'
     {%- for post in site.posts -%}
         <div class="tag-entry">
             
-            <div class="entry-date">
+            <span class="entry-date">
                 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time>
-            </div>
+            </span>
             <a href="{{ post.url | relative_url }}">{{ post.title | strip_html }}</a>
         </div>
 

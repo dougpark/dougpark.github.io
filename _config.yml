@@ -20,9 +20,8 @@ author: 64Zbit.com
 ###############################################
 
 navbar-links:
-  Zbit: "https://64zbit.com"
-  Archive:
-    - All: "/archives"
+  Archives: "/archives"
+  Tags:
     - Tech: "/archive/#tech"
     - Life: "/tags/#life"
     - Play: "/tags/#play"

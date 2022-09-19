@@ -12,7 +12,7 @@ The developer website is found at [GitHub](https://github.com/mushanshitiancai/v
 
 For complete details visit the VS Code [marketplace](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image).
 
-![](assets/img/Paste%20Image_2022-09-06-16-05-58.png)
+![](/assets/img/Paste%20Image_2022-09-06-16-05-58.png)
 
 The only downside is it was last updated on 01/23/2019.
 

@@ -1,16 +1,17 @@
 ---
 layout: page
 title: 'Archives'
-
 ---
+
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
 <div class="post-list">
     {%- for post in site.posts -%}
         <div class="tag-entry">
-            <dt>{{ post.date | date: "%b %d, %Y" }}</dt>
-            <dd><a href='{{ post.url }}'>{{ post.title }}</a></dd>
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time>
+            
+            <div class="entry-date">
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time>
+            </div>
             <a href="{{ post.url | relative_url }}">{{ post.title | strip_html }}</a>
         </div>
 

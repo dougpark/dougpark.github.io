@@ -8,7 +8,7 @@ title: Contact
 I encourage you to send me your comments regarding 64zbit.com. Unfortunately, I am terrible at responding. Your best bet is to mention [@64zbit](https://twitter.com/intent/tweet?text=@64zbit) on Twitter. 
 
 ## Archive
-[Previous Articles](/tags)
+[Previous Articles](/archive)
 
 ## Twitter
 [Send me a tweet](https://twitter.com/intent/tweet?text=@64zbit)

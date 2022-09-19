@@ -22,8 +22,8 @@ author: 64Zbit.com
 navbar-links:
   Zbit: "https://64zbit.com"
   Archive:
-    - All: "/tags"
-    - Tech: "/tags/#tech"
+    - All: "/archive"
+    - Tech: "/archive/#tech"
     - Life: "/tags/#life"
     - Play: "/tags/#play"
     - Projects: "/tags/#projects"

@@ -4,6 +4,7 @@ title: 'Archives'
 ---
 
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+<div id="full-tags-list">
 
 <div class="post-list">
     {%- for post in site.posts -%}
@@ -16,4 +17,5 @@ title: 'Archives'
         </div>
 
     {%- endfor -%}
+</div>
 </div>

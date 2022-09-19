@@ -20,11 +20,14 @@ author: 64Zbit.com
 ###############################################
 
 navbar-links:
-  Info: "aboutme"
-  Resources:
-    - Tags: "/tags"
-    - Tech: "/tags/tech"
-  More: "https://64zbit.com"
+  Zbit: "https://64zbit.com"
+  Archive:
+    - All: "/tags"
+    - Tech: "/tags/#tech"
+    - Life: "/tags/#life"
+    - Play: "/tags/#play"
+    - Projects: "/tags/#projects"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
